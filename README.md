@@ -3,6 +3,6 @@
 I'm a front-end specialised developer React / Vue. Currently residing in Wellington, New Zealand. 🌿
 
 📚 Currently learning:\
-graphql\
+graphql / node\
 typescript\
 svelte
