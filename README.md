@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end specialised developer React / Vue. Currently residing in Wellington, New Zealand. 🌿
+I'm a front-end specialised developer. Currently residing in Wellington, New Zealand. 🌿
 
 📚 Currently learning:\
 graphql / node\
